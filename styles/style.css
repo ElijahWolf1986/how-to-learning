@@ -318,6 +318,7 @@
     display: flex;
     justify-content: space-between;
     flex-direction: row;
+    margin: auto;
 }
 
 .footer__column_content_copyright {
