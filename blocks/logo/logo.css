@@ -1,0 +1,10 @@
+@import url(./_place_header/logo_place_header.css);
+
+.logo {
+    z-index: 2;
+    /* width: 183px;
+    height: 32px; */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
